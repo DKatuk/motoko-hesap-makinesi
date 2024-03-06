@@ -47,4 +47,3 @@ public func bolme (s: Int) : async ?Int {
   }
 
 };
-}
